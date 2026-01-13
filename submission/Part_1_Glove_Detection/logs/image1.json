@@ -1,0 +1,75 @@
+{
+    "filename": "image1.jpg",
+    "detections": [
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.19,
+            "bbox": [
+                363.72,
+                105.55,
+                469.84,
+                141.84
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.11,
+            "bbox": [
+                518.87,
+                228.02,
+                605.07,
+                382.68
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.04,
+            "bbox": [
+                387.19,
+                145.6,
+                458.05,
+                183.8
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.03,
+            "bbox": [
+                381.36,
+                109.1,
+                464.69,
+                139.22
+            ]
+        },
+        {
+            "label": "Gloved_Hand",
+            "confidence": 0.02,
+            "bbox": [
+                358.23,
+                30.87,
+                473.4,
+                163.24
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.02,
+            "bbox": [
+                235.46,
+                220.21,
+                312.87,
+                389.51
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.01,
+            "bbox": [
+                527.93,
+                234.65,
+                595.31,
+                371.97
+            ]
+        }
+    ]
+}

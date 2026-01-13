@@ -1,0 +1,35 @@
+{
+    "filename": "images.jpeg",
+    "detections": [
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.03,
+            "bbox": [
+                224.96,
+                6.67,
+                275.0,
+                45.14
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.03,
+            "bbox": [
+                45.25,
+                0.0,
+                94.67,
+                23.79
+            ]
+        },
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.02,
+            "bbox": [
+                0.0,
+                26.86,
+                71.92,
+                102.44
+            ]
+        }
+    ]
+}

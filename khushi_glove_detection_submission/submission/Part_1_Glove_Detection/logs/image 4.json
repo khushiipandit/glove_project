@@ -1,0 +1,15 @@
+{
+    "filename": "image 4.jpg",
+    "detections": [
+        {
+            "label": "Bare_Hand",
+            "confidence": 0.01,
+            "bbox": [
+                663.23,
+                120.93,
+                951.22,
+                470.47
+            ]
+        }
+    ]
+}
